@@ -1,3 +1,3 @@
 # GitFinish
-Some contentSome content
+Some content
 aad this line
